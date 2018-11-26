@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Scala-MA3-Studium.iml" filepath="$PROJECT_DIR$/Scala-MA3-Studium.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex06/ex06.iml" filepath="$PROJECT_DIR$/ex06/ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex07/ex07.iml" filepath="$PROJECT_DIR$/ex07/ex07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex08/ex08.iml" filepath="$PROJECT_DIR$/ex08/ex08.iml" />
     </modules>
   </component>
 </project>
