@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Scala-MA3-Studium.iml" filepath="$PROJECT_DIR$/Scala-MA3-Studium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex06/ex06.iml" filepath="$PROJECT_DIR$/ex06/ex06.iml" />
+    </modules>
+  </component>
+</project>
